@@ -7,5 +7,18 @@ This is a React application that displays the name and email address fetched fro
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Adil-ahamed/display-user-details.git
 cd react-user-display
+
+2.  Install and start
+
+To install node modules
+
+npm install
+
+
+To start the project
+
+npm run dev
+
+
